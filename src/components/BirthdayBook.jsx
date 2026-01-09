@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { useState } from 'react'
+import { motion } from 'framer-motion'
 import { ChevronLeft, ChevronRight, Heart, Gift, Sparkles, X } from 'lucide-react'
 
 const BirthdayBook = () => {
